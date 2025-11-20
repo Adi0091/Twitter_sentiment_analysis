@@ -8,4 +8,5 @@ datasets
 accelerate
 tf-keras
 evaluate
+gdown
 streamlit
