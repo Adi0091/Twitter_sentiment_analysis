@@ -1,2 +1,11 @@
 pandas
 numpy
+tensorflow
+seaborn
+scikit-learn
+transformers
+datasets 
+accelerate
+tf-keras
+evaluate
+streamlit
