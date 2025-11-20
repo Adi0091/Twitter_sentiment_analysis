@@ -5,7 +5,6 @@ seaborn
 scikit-learn
 transformers
 datasets 
-accelerate
 tf-keras
-evaluate
 streamlit
+

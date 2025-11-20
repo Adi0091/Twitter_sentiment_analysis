@@ -6,7 +6,6 @@ from transformers import DistilBertTokenizerFast, TFDistilBertForSequenceClassif
 
 MODEL_DIR = "artifacts/transformer_model"
 
-
 tokenizer = DistilBertTokenizerFast.from_pretrained(MODEL_DIR)
 model = TFDistilBertForSequenceClassification.from_pretrained(MODEL_DIR)
 
